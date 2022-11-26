@@ -3,7 +3,6 @@ import asyncio
 import re
 import aiohttp
 from urllib.parse import urlparse
-from info import SHORT_URL, SHORTENER_API, SHORTENER_WEBSITE
 
 
 class Shortzy:
